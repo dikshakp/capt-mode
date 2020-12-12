@@ -1,0 +1,262 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section1{
+    background-image: url("./images/gamezy_main_banner1.png");
+    color: #fff;
+
+}
+.dabba{
+    width: 70%;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0 100px;
+}
+.logo img{
+    width: 200px;
+}
+.signup button{
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.image-box img{
+    width: 700px;
+
+}
+.section1-body{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    margin-bottom: 45px;
+}
+.heading h1{
+    font-size: 45px;
+    font-weight: 20px;
+    margin-bottom: 10px;
+}
+.heading h3{
+    font-size: 24px;
+    margin-top: 10px;
+}
+,form h3{
+    font-size: 30px;
+}
+.number{
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px;
+    background-color: #fff;
+    font-size: 18px;
+
+}
+.button{
+    padding: 20px;
+    border: 2px;
+    border-radius: 5px;
+    background: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: yellow;
+}
+.section2{
+    background-color: #fff;
+    color: purple;
+}
+.dabba2{
+    display: flex;
+    align-items: center;
+    margin-top: 50px 0;
+}
+.wallet-img img{
+    margin-right: 30px;
+}
+.highlight{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-right: 80px;
+}
+.bonus{
+    font-size: 25px;
+    margin-right: 30px;
+}
+.click button{
+    padding: 10px 20px;
+    font-size: 20px;
+    color: purple;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid purple;
+}
+.section3{
+    background-color: #1c0528;
+    color: #fff;
+    padding-bottom: 50px;
+}
+.header1{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.topic{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.matches{
+    display: flex;
+}
+.match{
+    background-color: #fff;
+    color: black;
+    margin-right: 50px;
+    width: 23%;
+    position: relative;
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px 0;
+    border-bottom: grey dashed;
+}
+.IU{
+    margin-bottom: 10px;
+}
+.versus{
+    margin-bottom: 10px;
+    background-color: #1c0528;
+    color: #fff;
+
+}
+.KK{
+    margin-bottom: 10px;
+}
+.dt{
+    color: #333;
+    font-family: basiecircle-medius;
+    font-size: 14px;
+    margin-bottom: 20px;
+    border-left: 5px solid orangered;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+.play{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: -15px;
+    left: 34%;
+
+}
+.play_now{
+    background-color: yellow;
+    columns: #000;
+    font-size: 35px solid;
+    padding: 10px;
+    border: 1px solid #000;
+}
+.section{
+    display: flex;
+    justify-content: center;
+}
+.get_started h1{
+    display: flex;
+    justify-content: center;
+}
+.easy_steps h3{
+    display: flex;
+    justify-content: center;
+}
+.header4{
+    margin-bottom: 60px;
+}
+.section4_part1{
+    width: 35%
+}
+.dori{
+    display: flex;
+    margin-bottom:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.pic{
+    width: 20%;
+}
+.pic img {
+    height: 60px;
+}
+/* .content p{
+    font-size: 18px;
+    color: #4a4a4a;
+    line-height: 24px;
+    opacity: .8;
+    margin-left: 13%;
+}
+.content h3{
+    margin-left: 13%;
+    color: #000;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.message h3{
+    margin-left: 21%;
+    color: #000;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.message p{
+    font-size: 18px;
+    color: #4a4a4a;
+    line-height: 24px;
+    opacity: .8;
+    margin-left: 21%;
+}
+.text h3{
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text p{
+    font-size: 18px;
+    line-height: 24px;
+    color: #4a4a4a;
+    opacity: 0.8;
+} */
+
+.dori {
+    
+}
+.contest-desc {
+
+}
+.contest-desc h3 {
+    color: #000;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 10px;
+}
+
+.contest-desc p {
+    font-size: 18px;
+    line-height: 24px;
+    color: #4a4a4a;
+    opacity: 0.8;
+    margin: 0;
+}
